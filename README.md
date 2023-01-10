@@ -23,7 +23,10 @@ Mods and upgrade parts for the Colonel Wasp 76 AEB blaster.
 - - Mag release is a LOT easier to reach.
 - - Work in progress
 
-
+## Sellers
+Hardware and prints are available from these sellers:
+- WIP
+- WIP
 
 ## Misc.
 
