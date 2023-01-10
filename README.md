@@ -10,6 +10,7 @@ Mods and upgrade parts for the Colonel Wasp 76 AEB blaster.
 - **Shroud & Dart Gate**
 - - New barrel shroud with picatinny and a quick swap barrel collet.
 - - New dart gate. This dart gate keeps the barrel stationary, instead of letting it move like on a stock Wasp 76. 
+- - THE DART GATE MUST BE USED WITH THIS SHROUD. The shroud can be used with the standard moving dart gate, but it isn't as nice as my new dart gate.
 - - No decrease in performance, increase in accuracy. 
 - - Shroud closely follows the contours of the orginal shell middle section.
 
