@@ -5,6 +5,6 @@
 - - No decrease in performance, increase in accuracy. 
 - - Shroud closely follows the contours of the orginal shell middle section.
 
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/wasp76%20barrel%20shroud%20prototype%20print.png" width="500">
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="500">
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="500">
+<img src="wasp76%20barrel%20shroud%20prototype%20print.png" width="500">
+<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="500">
+<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="500">
