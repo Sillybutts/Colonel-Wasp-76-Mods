@@ -5,7 +5,9 @@ Mods and upgrade parts for the Colonel Wasp 76 AEB blaster.
 
 ### This repository is a collection of mods for the Colonel Wasp 76 AEB blaster:
 
-<img src="GHimages/Trion%20spacers.png" width="500">
+<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/wasp76%20barrel%20shroud%20prototype%20print.png" width="500">
+<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="500">
+<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="500">
 
 - **Shroud & Dart Gate**
 - - New barrel shroud with picatinny and a quick swap barrel collet.
