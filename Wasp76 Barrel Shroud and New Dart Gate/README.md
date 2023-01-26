@@ -5,6 +5,14 @@
 - - No decrease in performance, increase in accuracy. 
 - - Shroud closely follows the contours of the orginal shell middle section.
 
+## Print the DartGate at 100% infill 5 walls. Everything else can be 20% 5 walls. 
+
+## DartGateShellCutting is OPTIONAL for extra strength, but requires shell modification to fit. The standard dart gate is a TIGHT FRICTION FIT WITH NO SHELL MODIFICATION. 
+
+## PRINT 2X OF THE BARRELSHROUDRAIL.
+
+
+
 <img src="GHimages/Colonel%20Wasp%2076%20mods%20v58%201.png" width="500">
 <img src="GHimages/Colonel%20Wasp%2076%20mods%20v58%202.png" width="500">
 <img src="GHimages/Colonel%20Wasp%2076%20mods%20v58%203.png" width="500">
