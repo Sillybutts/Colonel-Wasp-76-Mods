@@ -5,9 +5,13 @@ Mods and upgrade parts for the Colonel Wasp 76 AEB blaster.
 
 ### This repository is a collection of mods for the Colonel Wasp 76 AEB blaster:
 
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/wasp76%20barrel%20shroud%20prototype%20print.png" width="500">
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="500">
-<img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%201.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%202.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%203.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%205.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="500">
+<img src="GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/wasp76%20barrel%20shroud%20prototype%20print.png" width="500">
 
 - **Shroud & Dart Gate**
 - - New barrel shroud with picatinny and a quick swap barrel collet.
