@@ -11,6 +11,8 @@
 
 ## PRINT 2X OF THE BARRELSHROUDRAIL.
 
+Firing demo: https://www.youtube.com/watch?v=tsNbEUYJDRE
+
 
 
 <img src="GHimages/Colonel%20Wasp%2076%20mods%20v58%201.png" width="500">
