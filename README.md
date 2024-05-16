@@ -8,6 +8,10 @@ Mods and upgrade parts for the Colonel Wasp 76 AEB blaster.
 
 <img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%202.png" width="300"><img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%203.png" width="300"><img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Colonel%20Wasp%2076%20mods%20v58%205.png" width="300"><img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate%20Section%20View.png" width="300"><img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate.png" width="300"><img src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/wasp76%20barrel%20shroud%20prototype%20print.png" width="300">
 
+<a href="https://www.printables.com/model/875807-colonel-wasp-76-mods"><img alt="Printables Button" style="border-width:0" src="Wasp76%20Barrel%20Shroud%20and%20New%20Dart%20Gate/GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875807-colonel-wasp-76-mods
+
 - **Shroud & Dart Gate**
 - - New barrel shroud with picatinny and a quick swap barrel collet.
 - - New dart gate. This dart gate keeps the barrel stationary, instead of letting it move like on a stock Wasp 76. 
